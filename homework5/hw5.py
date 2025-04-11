@@ -20,7 +20,7 @@ def checkDataType(x):
 
 #2.2
 def EvenOrOdd(n):
-    return 'Even' if n % 2 == 0 else 'Odd'
+    return "Even" if n % 2 == 0 else "Odd"
 
 #3
 def SumWithLoop(numbers):
